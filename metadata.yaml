@@ -1,4 +1,5 @@
 _repo: Old-World-Japan-Legends-of-the-Land-of-the-Gods_46863
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Robinson, T. H. (Thomas Heath)
@@ -7,12 +8,17 @@ contributor:
     deathdate: 1954
     gutenberg_agent_id: '25118'
     url: http://www.gutenberg.org/2009/agents/25118
+covers:
+- cover_type: archival
+  image_path: 46863-h/images/cover.jpg
 creator:
   author:
     agent_name: Rinder, Frank
     gutenberg_agent_id: '44000'
     url: http://www.gutenberg.org/2009/agents/44000
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46863#Old-World-Japan-Legends-of-the-Land-of-the-Gods
 gutenberg_issued: '2014-09-15'
 gutenberg_type: Text
 identifiers:
